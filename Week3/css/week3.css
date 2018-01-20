@@ -21,7 +21,6 @@ body {
 #nav-list a{
     color: black;
     background-color: lightyellow;
-    text-align:center;
 }
 #nav-list a:hover {
     background-color:#E7E7E7;
